@@ -10,7 +10,7 @@ In this project, I worked with:
 - 📝 **SQL Queries**: I solved key business questions through SQL queries to extract insights from the data.
 
 ## 📂 **Project Files**
-- `airlines_analysis.sql`: Contains all the SQL queries used to analyze the anonymized dataset and answer the business questions.
+- `SQL Capstone Project.docx`: Contains all the SQL queries used to analyze the anonymized dataset and answer the business questions.
 - `README.md`: This file explaining the project.
 
 ## 🚀 **Key Questions Solved**
